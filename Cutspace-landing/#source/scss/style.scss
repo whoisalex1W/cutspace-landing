@@ -1,1 +1,10 @@
+//Base
+@import "../scss/base/vars";
 @import "nullingstyle.scss";
+@import "../scss/base/base";
+
+//Blocks
+
+@import "../scss/blocks/nav";
+@import "../scss/blocks/logo";
+@import "../scss/blocks/navigation-list";
