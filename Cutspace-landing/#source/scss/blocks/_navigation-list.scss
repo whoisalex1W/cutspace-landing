@@ -12,11 +12,11 @@
         text-decoration: none;
 
         &:hover{
-            color: #f78434;
+            color: $accent-color;
         }
 
         &.active{
-            color: #f78434;
+            color: $accent-color;
             font-weight: 700;
         }
     }
